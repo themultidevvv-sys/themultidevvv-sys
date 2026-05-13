@@ -28,15 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img width="12" />
 
   <!-- Game Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unreal" />
   <img width="12" />
 
   <!-- Tools -->
@@ -77,7 +71,9 @@
 <p align="left">
   <strong>Tecnologías:</strong> C# + SQL Server<br>
   <strong>Características:</strong> Operaciones CRUD, gestión de cuentas, lógica de transacciones<br>
-  <strong>Estado:</strong> En desarrollo
+  <strong>Estado:</strong> Finalizado (Prototipo Verde)<br>
+  <strong>Descripcion Breve Del Proyecto:</strong> Este sistema es uno de administracion coporativa, manejo de cuentas y definicion de roles. Aqui el cliente podra acceder a una      cuenta banco, realizar depositos, retiros y tranferencias, ver su historial, crear nueva cuentas o borrar ya existentes.
+  
 </p>
 
 ###
@@ -92,18 +88,6 @@
   <strong>Estado:</strong> Prototipo funcional
 </p>
 
-###
-
-<div align="left">
-  <a href="mailto:eliastaveras@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/eliastaveras" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
@@ -112,14 +96,8 @@
 ###
 
 <p align="left">
-  📱 Teléfono: [Tu número personal]<br>
-  📧 Correo: [Tu correo personal]<br>
-  🔗 LinkedIn: linkedin.com/in/eliastaveras<br>
+  📧 Correo: themultidevvv@gmail.com<br>
   📍 Santo Domingo, República Dominicana
 </p>
 
-###
 
-<img alt="contribuciones" src="https://github.com/eliastaveras/eliastaveras/workflows" />
-
-###
