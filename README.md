@@ -137,6 +137,5 @@ Se como trabajar con la terminal. Tengo una base inicial de hacking ético, desd
 - Correo: [themultidevvv@gmail.com](mailto:themultidevvv@gmail.com)
 - Portafolio: [themultidevvv-portfolio.vercel.app](https://themultidevvv-portfolio.vercel.app)
 - CTF Magic: [online.ctfmagic.org/users/2028](https://online.ctfmagic.org/users/2028)
-- Ubicación: Santo Domingo, República Dominicana
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D2A,50:1B1B4D,100:E3242B&height=100&section=footer" width="100%" alt="" />
